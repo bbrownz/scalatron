@@ -1,0 +1,1 @@
+A work in progress for learning scala through [scalatron](http://scalatron.wordpress.com/)
